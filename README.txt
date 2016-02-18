@@ -1,4 +1,4 @@
-Version 1 Tarea2 Daniel 
+Version 4 Tarea2 Daniel 
 copiar en el box la ruta del proyecto del que desea contar los LOC
 
 ruta Github  https://github.com/dseveriche/Alvarez_Tarea2_Ecos.git
@@ -25,4 +25,4 @@ Ubicarse en el	directorio target/classes/
 ejecutar
 java ecos.tarea2_conteo_loc.Main	
 
-se ejecuta java ecos.tarea2_conteo_loc.Main
+
